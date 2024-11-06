@@ -16,3 +16,4 @@ function twoSumOptimized(nums, target) {
 console.log(twoSumOptimized([2, 7, 11, 15], 9)); // Output: [0, 1]
 console.log(twoSumOptimized([3, 2, 4], 6));      // Output: [1, 2]
 console.log(twoSumOptimized([3, 3], 6));         // Output: [0, 1]
+console.log(twoSumOptimized([3, 3, -2], 1));         // Output: [1, 2]
